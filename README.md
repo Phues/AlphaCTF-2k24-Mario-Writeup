@@ -52,7 +52,7 @@ The main idea behind this challenge is to utilize the [Unity WebGL Interacting w
 
 4. Tools like [Asset Ripper](https://github.com/AssetRipper/AssetRipper/releases/tag/0.3.4.0) allow us to do this easily, when we open the .data file with asset ripper we see the following: 
 
-    ![asset ripper.png](assets/asset ripper.png)
+    ![asset-ripper.png](assets/asset-ripper.png)
 
     Let's open `level0` and look for a game object with an unsual name: 
 
